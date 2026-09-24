@@ -10,6 +10,15 @@ npm create vite@latest resume-builder -- --template react
 
 - project structuring (component creation)
 
+- install react router dom to create path and routing related actions
+- wrap app.jsx with BrowserRouter in main.jsx
+
+- define path and elements inside routes using route in app.jsx
+
+- design components
+
+- collect resume details from user inputs using state (onChange) state defined in parent component as an object
+- display resume details in preview components using state lifting , because react only supports unidirectional dataflow 
 
 
 

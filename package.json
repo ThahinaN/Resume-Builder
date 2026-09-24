@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "resume-builder",
   "private": true,
   "version": "0.0.0",
@@ -34,21 +33,5 @@
     "eslint": "^10.9.0",
     "eslint-plugin-react-hooks": "^7.1.1",
     "eslint-plugin-react-refresh": "^0.5.4",
-    "globals": "^17.11.0",
-    "vite": "^8.2.2"
-=======
-  "name": "rb-server",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "json-server": "^0.17.4"
->>>>>>> f633d0d3e8dcf4af375c35c1c1b64c56aff62d84
-  }
-}
+    "globals": "^17.11.0",    "vite": "^8.2.2"
+  }}
